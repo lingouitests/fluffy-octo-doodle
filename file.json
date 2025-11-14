@@ -1,6 +1,9 @@
 {
   "beta_1": "beta",
   "1": "one",
-  "2":"two",
-  "str":"str"
+  "2": "two",
+  "str": "str",
+  "three_1": "three",
+  "four_2": "four",
+  "computer_1": "computer"
 }
